@@ -1,0 +1,4 @@
+
+target :iOSClient do
+  pod 'CocoaAsyncSocket'
+end
